@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # 💫 About Me:
 🔭 I’m currently working on: Shipping mobile features end-to-end (React Native/TypeScript) while owning roadmap + release execution for MVP pilots<br><br>👯 I’m looking to collaborate on: Early-stage products where I can combine product thinking (PRDs, prioritization) with hands-on engineering<br><br>🤝 I’m looking for help with: Finding strong open-source repos to contribute to (mobile, full-stack, dev tools) + feedback on my system design + case studies<br><br>🌱 I’m currently learning: Better instrumentation/analytics, experimentation basics, and scalable backend patterns for consumer apps<br><br>💬 Ask me about: Building React Native apps (Expo), designing REST APIs + serverless functions (AWS Lambda/Firebase), data-driven iteration (metrics, experiments), and translating messy requirements into clear specs teams can build from<br><br>⚡ Fun fact: I love exploring new places and collecting “tiny joys” from every city — one unique experience, one café/snack, and one favorite view. I’m always up for recommendations (and I’ll gladly share mine too).
 
